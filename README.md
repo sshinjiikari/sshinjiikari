@@ -3,7 +3,7 @@
 </p><br><br>
 <p align="center">
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-418-781e1e" alt="shinjilings">
+  <img src="https://img.shields.io/badge/shinjilings-418-781e1e" alt="shinjilings">
 </p>
 
 
