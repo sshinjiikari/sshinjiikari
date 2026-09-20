@@ -2,7 +2,9 @@
   <img src="./download.jpg" width="500">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/shinjilings-418-781e1e" alt="shinjilings">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=shinjilings&color=blue&style=flat" alt="shinjilings" />
+</p>
+
 </p>
 
 
