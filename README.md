@@ -7,6 +7,6 @@
 
 </p><br><br>
 <p align="center">
-  <img src="./Screenshot 2026-09-20 120036.png" width="500">
+  <img src="./Screenshot 2026-09-20 120036.png" width="300">
 
 
