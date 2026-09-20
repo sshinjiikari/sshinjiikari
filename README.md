@@ -8,6 +8,6 @@
 </p><br><br>
 <p align="center">
   <img src="./Screenshot 2026-09-20 120036.png" width="300">
-  aww look aw
+  aww look aw its kaworu awwww more like jayworu haha
 
 
