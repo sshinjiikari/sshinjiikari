@@ -1,2 +1,4 @@
-<img src="images/ꪆৎ shun kaido lookup.jpg" alt="ꪆৎ shun kaido lookup.jpg" width="300">
+<p align="center">
+  <img src="ꪆৎ shun kaido lookup.jpg" alt="My Image" width="400">
+</p>
 
